@@ -33,3 +33,8 @@ I propose this editor as the solution to the above problem as it can run offline
 5. npm run tauri dev
 
 ```
+
+## Screenshots
+
+![Screenshot 2023-12-28 140443](https://github.com/kanugurajesh/Editor/assets/120458029/677ad096-3904-4d11-93b1-b0275ea9db74)
+
