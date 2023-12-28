@@ -12,3 +12,24 @@ There are many editors but many do not work offline and many do are only website
 
 ## Solution Statement
 I propose this editor as the solution to the above problem as it can run offline and available on desktop and it is also open source which has features not less than any enterprise editors
+
+## Project Prerequisites
+
+```bash
+
+1. Rust
+2. Nodejs
+
+```
+
+## Project Setup
+
+```bash
+
+1. fork the project # the project will get forked to your repo
+2. clone the project from you github
+3. cd Editor
+4. npm install
+5. npm run tauri dev
+
+```
