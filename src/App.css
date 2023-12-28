@@ -1,0 +1,12 @@
+html,
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overscroll-behavior: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
