@@ -6,8 +6,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "tauri-app",
-    "version": "0.0.0"
+    "productName": "editor",
+    "version": "../package.json"
   },
   "tauri": {
     "allowlist": {
@@ -15,12 +15,15 @@
       "shell": {
         "all": false,
         "open": true
+      },
+      "dialog": {
+        "all": true
       }
     },
     "bundle": {
       "active": true,
+      "identifier": "my.tauri.app",
       "targets": "all",
-      "identifier": "com.tauri.dev",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
@@ -36,7 +39,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "tauri-app",
+        "title": "editor",
         "width": 800,
         "height": 600
       }
