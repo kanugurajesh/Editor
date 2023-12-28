@@ -5,4 +5,4 @@
 </div>
 
 # Editor
-A advanced editor to edit things
+An advanced multiplatfrom fast editor
